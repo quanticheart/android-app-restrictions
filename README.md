@@ -31,11 +31,6 @@ Pre-requisites
 - Android Build Tools v28.0.3
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/1-application.png" height="400" alt="Screenshot"/> <img src="screenshots/2-custom-restrictions-actiivity.png" height="400" alt="Screenshot"/> 
-
 Getting Started
 ---------------
 
